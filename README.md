@@ -23,6 +23,16 @@ Add the following environment variables to a `.env` file in the root directory:
 MONGO_URI=your_mongo_uri
 PORT=5000
 ```
+### 2. Build the app
+```
+npm run build
+```
+
+### 3. Start the app
+```
+npm run start
+```
+
 ---
 
 Feel free to explore and adapt the code for your own purposes.  
