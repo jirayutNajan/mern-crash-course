@@ -22,7 +22,7 @@ Add the following environment variables to a `.env` file in the root directory:
 ```env
 MONGO_URI=your_mongo_uri
 PORT=5000
-
+```
 ---
 
 Feel free to explore and adapt the code for your own purposes.  
