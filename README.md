@@ -1,4 +1,4 @@
-# My Project
+# simple CRUD project
 
 This project was created by following a YouTube tutorial.  
 This is the first project in the video.
